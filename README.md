@@ -26,7 +26,7 @@ This project involves the development of a fantasy soccer league application. Th
 ## Technologies Used
 
 - **Frontend:**
-  - HTML, CSS (Tailwind CSS)
+  - HTML, CSS (Tailwind CSS), Javascript
 
 - **Backend:**
   - Python (Flask framework for RESTful API)
