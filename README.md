@@ -1,4 +1,4 @@
-# Fantasy Soccer League Project README
+# Fantasy Soccer League Project
 
 ## Overview
 
