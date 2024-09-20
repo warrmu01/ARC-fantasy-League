@@ -1,5 +1,7 @@
 # Fantasy Soccer League Project
 
+## Currently in the process in moving the backedn from Flask to Spring Boot! Stay Tuned.
+
 ## Overview
 
 This project involves the development of a fantasy soccer league application. The primary focus areas include creating a visually appealing user interface (UI) using Tailwind CSS, building a robust backend with SQLAlchemy for database management, and implementing RESTful API integration for player data.
