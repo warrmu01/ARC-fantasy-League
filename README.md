@@ -1,6 +1,6 @@
 # Fantasy Soccer League Project
 
-## Currently in the process in moving the backedn from Flask to Spring Boot! Stay Tuned.
+## Currently in the process in moving the backend from Flask to Spring Boot! Stay Tuned.
 
 ## Overview
 
